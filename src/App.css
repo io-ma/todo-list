@@ -1,0 +1,60 @@
+body {
+  color: #353a38;
+}
+
+.add-todo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  color: #3a3537;
+}
+
+input,
+button {
+  -webkit-tap-highlight-color: #000;
+}
+
+.todo-input {
+  padding: 10px;
+  border: 1px solid #353a38;
+  border-radius: 5px;
+}
+
+.todo-input:hover {
+  transition: all 0.7s;
+  transition-timing-function: ease-in-out;
+  box-shadow: inset 0 0 10px #353a38);
+  -webkit-tap-highlight-color: #000;
+}
+.todo-input:focus {
+  outline: 2px solid #eee;
+}
+
+.todo-btn {
+  width: 7.5em;
+  outline: none;
+  border: 1px solid #353a38;
+  border-bottom: 4px solid #353a38;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.todo-btn:hover {
+  transition: all 0.7s;
+  transition-timing-function: ease-in-out;
+  color: #fff;
+  background: #646d69;
+  width: 7.5em;
+  border: 1px solid #353a38;
+  border-bottom: 4px solid #353a38;
+}
+
+.main-window {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
