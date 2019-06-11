@@ -37,7 +37,7 @@ button {
   width: 7.5em;
   outline: none;
   border: 1px solid #353a38;
-  border-bottom: 4px solid #353a38;
+  border-bottom: 3px solid #353a38;
   border-radius: 5px;
   margin-top: 10px;
   padding: 10px;
@@ -50,7 +50,7 @@ button {
   background: #646d69;
   width: 7.5em;
   border: 1px solid #353a38;
-  border-bottom: 4px solid #353a38;
+  border-bottom: 3px solid #353a38;
 }
 
 .main-window {
