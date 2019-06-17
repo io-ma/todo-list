@@ -1,6 +1,6 @@
 ## TODO list
 
-This is a simple desktop todo list example to get me started with Electron.js
+This is a simple todo list example to get me started with Electron.js
 
 ### to run:
 
